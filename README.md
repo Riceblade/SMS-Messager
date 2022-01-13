@@ -29,7 +29,7 @@ The SMS-Messager can text people without a phone number!!
 Expect updates coming in the near future I am currently working on the following
 1. `making the website look nicer`
 2. `making the site publicly available`
-3. `adding an area to recieve texts (currently they just show up in email and not on the site`
+3. `adding an area to recieve texts (currently they just show up in email and not on the site)`
 4. `faster speeds`
 
 
