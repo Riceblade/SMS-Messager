@@ -21,8 +21,8 @@ The SMS-Messager can text people without a phone number!!
 3. Replace the info in line 32 & 35 with your login info
 4. On line 36 edit `vtext.com` to what ever your internet service providers domain is list will be at the bottom
 5. `pip install flask` then run `python .\server.py`
-6. If it says `Running on http://192.168.1.214:5000/` in your terminal, congrats it worked.
-7. Finally go to http://192.168.1.214:5000/ then try it :)
+6. If it says `Running on http://IP:5000/` in your terminal, congrats it worked.
+7. Finally go to http://IP:5000/ then try it :)
 
 # Future of this project:
 
